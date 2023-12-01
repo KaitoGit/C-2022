@@ -1,0 +1,90 @@
+E:\2022C#\Student Grader\Student Grader\obj\Debug\Student Grader.csproj.AssemblyReference.cache
+E:\2022C#\Student Grader\Student Grader\obj\Debug\Student Grader.csproj.SuggestedBindingRedirects.cache
+E:\2022C#\Student Grader\Student Grader\obj\Debug\Student_Grader.Form1.resources
+E:\2022C#\Student Grader\Student Grader\obj\Debug\Student_Grader.Form2.resources
+E:\2022C#\Student Grader\Student Grader\obj\Debug\Student_Grader.Form3.resources
+E:\2022C#\Student Grader\Student Grader\obj\Debug\Student_Grader.Properties.Resources.resources
+E:\2022C#\Student Grader\Student Grader\obj\Debug\Student Grader.csproj.GenerateResource.cache
+E:\2022C#\Student Grader\Student Grader\obj\Debug\Student Grader.csproj.CoreCompileInputs.cache
+E:\2022C#\Student Grader\Student Grader\bin\Debug\Student Grader.exe.config
+E:\2022C#\Student Grader\Student Grader\bin\Debug\Student Grader.exe
+E:\2022C#\Student Grader\Student Grader\bin\Debug\Student Grader.pdb
+E:\2022C#\Student Grader\Student Grader\obj\Debug\Student Grader.exe
+E:\2022C#\Student Grader\Student Grader\obj\Debug\Student Grader.pdb
+D:\xiazaitupian\Downloads\Student Grade\Student Grader - (2)\Student Grader\bin\Debug\Student Grader.exe.config
+D:\xiazaitupian\Downloads\Student Grade\Student Grader - (2)\Student Grader\bin\Debug\Student Grader.exe
+D:\xiazaitupian\Downloads\Student Grade\Student Grader - (2)\Student Grader\bin\Debug\Student Grader.pdb
+D:\xiazaitupian\Downloads\Student Grade\Student Grader - (2)\Student Grader\obj\Debug\Student Grader.csproj.AssemblyReference.cache
+D:\xiazaitupian\Downloads\Student Grade\Student Grader - (2)\Student Grader\obj\Debug\Student Grader.csproj.SuggestedBindingRedirects.cache
+D:\xiazaitupian\Downloads\Student Grade\Student Grader - (2)\Student Grader\obj\Debug\Student_Grader.Form1.resources
+D:\xiazaitupian\Downloads\Student Grade\Student Grader - (2)\Student Grader\obj\Debug\Student_Grader.Form2.resources
+D:\xiazaitupian\Downloads\Student Grade\Student Grader - (2)\Student Grader\obj\Debug\Student_Grader.Form3.resources
+D:\xiazaitupian\Downloads\Student Grade\Student Grader - (2)\Student Grader\obj\Debug\Student_Grader.Properties.Resources.resources
+D:\xiazaitupian\Downloads\Student Grade\Student Grader - (2)\Student Grader\obj\Debug\Student Grader.csproj.GenerateResource.cache
+D:\xiazaitupian\Downloads\Student Grade\Student Grader - (2)\Student Grader\obj\Debug\Student Grader.csproj.CoreCompileInputs.cache
+D:\xiazaitupian\Downloads\Student Grade\Student Grader - (2)\Student Grader\obj\Debug\Student Grader.exe
+D:\xiazaitupian\Downloads\Student Grade\Student Grader - (2)\Student Grader\obj\Debug\Student Grader.pdb
+E:\Student Grader\Student Grader - (2)\Student Grader\bin\Debug\Student Grader.exe.config
+E:\Student Grader\Student Grader - (2)\Student Grader\bin\Debug\Student Grader.exe
+E:\Student Grader\Student Grader - (2)\Student Grader\bin\Debug\Student Grader.pdb
+E:\Student Grader\Student Grader - (2)\Student Grader\obj\Debug\Student Grader.csproj.AssemblyReference.cache
+E:\Student Grader\Student Grader - (2)\Student Grader\obj\Debug\Student Grader.csproj.SuggestedBindingRedirects.cache
+E:\Student Grader\Student Grader - (2)\Student Grader\obj\Debug\Student_Grader.Form1.resources
+E:\Student Grader\Student Grader - (2)\Student Grader\obj\Debug\Student_Grader.Form2.resources
+E:\Student Grader\Student Grader - (2)\Student Grader\obj\Debug\Student_Grader.Form3.resources
+E:\Student Grader\Student Grader - (2)\Student Grader\obj\Debug\Student_Grader.Properties.Resources.resources
+E:\Student Grader\Student Grader - (2)\Student Grader\obj\Debug\Student Grader.csproj.GenerateResource.cache
+E:\Student Grader\Student Grader - (2)\Student Grader\obj\Debug\Student Grader.csproj.CoreCompileInputs.cache
+E:\Student Grader\Student Grader - (2)\Student Grader\obj\Debug\Student Grader.exe
+E:\Student Grader\Student Grader - (2)\Student Grader\obj\Debug\Student Grader.pdb
+E:\Student Grader梁皓然 - 副本\Student Grader\bin\Debug\Student Grader.exe.config
+E:\Student Grader梁皓然 - 副本\Student Grader\bin\Debug\Student Grader.exe
+E:\Student Grader梁皓然 - 副本\Student Grader\bin\Debug\Student Grader.pdb
+E:\Student Grader梁皓然 - 副本\Student Grader\obj\Debug\Student Grader.csproj.AssemblyReference.cache
+E:\Student Grader梁皓然 - 副本\Student Grader\obj\Debug\Student Grader.csproj.SuggestedBindingRedirects.cache
+E:\Student Grader梁皓然 - 副本\Student Grader\obj\Debug\Student_Grader.Form1.resources
+E:\Student Grader梁皓然 - 副本\Student Grader\obj\Debug\Student_Grader.Form2.resources
+E:\Student Grader梁皓然 - 副本\Student Grader\obj\Debug\Student_Grader.Form3.resources
+E:\Student Grader梁皓然 - 副本\Student Grader\obj\Debug\Student_Grader.Properties.Resources.resources
+E:\Student Grader梁皓然 - 副本\Student Grader\obj\Debug\Student Grader.csproj.GenerateResource.cache
+E:\Student Grader梁皓然 - 副本\Student Grader\obj\Debug\Student Grader.csproj.CoreCompileInputs.cache
+E:\Student Grader梁皓然 - 副本\Student Grader\obj\Debug\Student Grader.exe
+E:\Student Grader梁皓然 - 副本\Student Grader\obj\Debug\Student Grader.pdb
+E:\Student Grader基本完成 - 副本\Student Grader\bin\Debug\Student Grader.exe.config
+E:\Student Grader基本完成 - 副本\Student Grader\bin\Debug\Student Grader.exe
+E:\Student Grader基本完成 - 副本\Student Grader\bin\Debug\Student Grader.pdb
+E:\Student Grader基本完成 - 副本\Student Grader\obj\Debug\Student Grader.csproj.AssemblyReference.cache
+E:\Student Grader基本完成 - 副本\Student Grader\obj\Debug\Student Grader.csproj.SuggestedBindingRedirects.cache
+E:\Student Grader基本完成 - 副本\Student Grader\obj\Debug\Student_Grader.Form1.resources
+E:\Student Grader基本完成 - 副本\Student Grader\obj\Debug\Student_Grader.Form2.resources
+E:\Student Grader基本完成 - 副本\Student Grader\obj\Debug\Student_Grader.Form3.resources
+E:\Student Grader基本完成 - 副本\Student Grader\obj\Debug\Student_Grader.Properties.Resources.resources
+E:\Student Grader基本完成 - 副本\Student Grader\obj\Debug\Student Grader.csproj.GenerateResource.cache
+E:\Student Grader基本完成 - 副本\Student Grader\obj\Debug\Student Grader.csproj.CoreCompileInputs.cache
+E:\Student Grader基本完成 - 副本\Student Grader\obj\Debug\Student Grader.exe
+E:\Student Grader基本完成 - 副本\Student Grader\obj\Debug\Student Grader.pdb
+E:\Student GraderFinal\Student Grader\bin\Debug\Student Grader.exe.config
+E:\Student GraderFinal\Student Grader\bin\Debug\Student Grader.exe
+E:\Student GraderFinal\Student Grader\bin\Debug\Student Grader.pdb
+E:\Student GraderFinal\Student Grader\obj\Debug\Student Grader.csproj.AssemblyReference.cache
+E:\Student GraderFinal\Student Grader\obj\Debug\Student Grader.csproj.SuggestedBindingRedirects.cache
+E:\Student GraderFinal\Student Grader\obj\Debug\Student_Grader.Form1.resources
+E:\Student GraderFinal\Student Grader\obj\Debug\Student_Grader.Form2.resources
+E:\Student GraderFinal\Student Grader\obj\Debug\Student_Grader.Form3.resources
+E:\Student GraderFinal\Student Grader\obj\Debug\Student_Grader.Properties.Resources.resources
+E:\Student GraderFinal\Student Grader\obj\Debug\Student Grader.csproj.GenerateResource.cache
+E:\Student GraderFinal\Student Grader\obj\Debug\Student Grader.csproj.CoreCompileInputs.cache
+E:\Student GraderFinal\Student Grader\obj\Debug\Student Grader.exe
+E:\Student GraderFinal\Student Grader\obj\Debug\Student Grader.pdb
+E:\58298_C# programmers_Project 1\Student Grader\bin\Debug\Student Grader.exe.config
+E:\58298_C# programmers_Project 1\Student Grader\bin\Debug\Student Grader.exe
+E:\58298_C# programmers_Project 1\Student Grader\bin\Debug\Student Grader.pdb
+E:\58298_C# programmers_Project 1\Student Grader\obj\Debug\Student Grader.csproj.AssemblyReference.cache
+E:\58298_C# programmers_Project 1\Student Grader\obj\Debug\Student_Grader.Form1.resources
+E:\58298_C# programmers_Project 1\Student Grader\obj\Debug\Student_Grader.Form2.resources
+E:\58298_C# programmers_Project 1\Student Grader\obj\Debug\Student_Grader.Form3.resources
+E:\58298_C# programmers_Project 1\Student Grader\obj\Debug\Student_Grader.Properties.Resources.resources
+E:\58298_C# programmers_Project 1\Student Grader\obj\Debug\Student Grader.csproj.GenerateResource.cache
+E:\58298_C# programmers_Project 1\Student Grader\obj\Debug\Student Grader.csproj.CoreCompileInputs.cache
+E:\58298_C# programmers_Project 1\Student Grader\obj\Debug\Student Grader.exe
+E:\58298_C# programmers_Project 1\Student Grader\obj\Debug\Student Grader.pdb
