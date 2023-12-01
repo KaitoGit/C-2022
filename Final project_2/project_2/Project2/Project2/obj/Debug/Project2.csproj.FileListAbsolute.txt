@@ -1,0 +1,75 @@
+E:\2022C#\Project2\Project2\bin\Debug\Project2.exe.config
+E:\2022C#\Project2\Project2\bin\Debug\Project2.exe
+E:\2022C#\Project2\Project2\bin\Debug\Project2.pdb
+E:\2022C#\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+E:\2022C#\Project2\Project2\obj\Debug\Project2.Form1.resources
+E:\2022C#\Project2\Project2\obj\Debug\Project2.Form2.resources
+E:\2022C#\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+E:\2022C#\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+E:\2022C#\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+E:\2022C#\Project2\Project2\obj\Debug\Project2.exe
+E:\2022C#\Project2\Project2\obj\Debug\Project2.pdb
+E:\2022C#\Project2\Project2\obj\Debug\Project2.Form3.resources
+C:\Users\yusuf\OneDrive\Desktop\Project2 (3)\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\yusuf\OneDrive\Desktop\Project2 (3)\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\yusuf\OneDrive\Desktop\Project2 (3)\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\yusuf\OneDrive\Desktop\Project2 (3)\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Desktop\Project2 (3)\Project2\Project2\obj\Debug\Project2.Form1.resources
+C:\Users\yusuf\OneDrive\Desktop\Project2 (3)\Project2\Project2\obj\Debug\Project2.Form2.resources
+C:\Users\yusuf\OneDrive\Desktop\Project2 (3)\Project2\Project2\obj\Debug\Project2.Form3.resources
+C:\Users\yusuf\OneDrive\Desktop\Project2 (3)\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\yusuf\OneDrive\Desktop\Project2 (3)\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\yusuf\OneDrive\Desktop\Project2 (3)\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Desktop\Project2 (3)\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\yusuf\OneDrive\Desktop\Project2 (3)\Project2\Project2\obj\Debug\Project2.pdb
+D:\xiazaitupian\Downloads\Project2\Project2 (3)\Project2\Project2\bin\Debug\Project2.exe.config
+D:\xiazaitupian\Downloads\Project2\Project2 (3)\Project2\Project2\bin\Debug\Project2.exe
+D:\xiazaitupian\Downloads\Project2\Project2 (3)\Project2\Project2\bin\Debug\Project2.pdb
+D:\xiazaitupian\Downloads\Project2\Project2 (3)\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+D:\xiazaitupian\Downloads\Project2\Project2 (3)\Project2\Project2\obj\Debug\Project2.Form1.resources
+D:\xiazaitupian\Downloads\Project2\Project2 (3)\Project2\Project2\obj\Debug\Project2.Form2.resources
+D:\xiazaitupian\Downloads\Project2\Project2 (3)\Project2\Project2\obj\Debug\Project2.Form3.resources
+D:\xiazaitupian\Downloads\Project2\Project2 (3)\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+D:\xiazaitupian\Downloads\Project2\Project2 (3)\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+D:\xiazaitupian\Downloads\Project2\Project2 (3)\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+D:\xiazaitupian\Downloads\Project2\Project2 (3)\Project2\Project2\obj\Debug\Project2.exe
+D:\xiazaitupian\Downloads\Project2\Project2 (3)\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\Dell\Desktop\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\Dell\Desktop\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\Dell\Desktop\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\Dell\Desktop\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Project2\Project2\obj\Debug\Project2.Form1.resources
+C:\Users\Dell\Desktop\Project2\Project2\obj\Debug\Project2.Form2.resources
+C:\Users\Dell\Desktop\Project2\Project2\obj\Debug\Project2.Form3.resources
+C:\Users\Dell\Desktop\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\Dell\Desktop\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\Dell\Desktop\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\yusuf\OneDrive\Desktop\project_2\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\yusuf\OneDrive\Desktop\project_2\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\yusuf\OneDrive\Desktop\project_2\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\yusuf\OneDrive\Desktop\project_2\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Desktop\project_2\Project2\Project2\obj\Debug\Project2.Form1.resources
+C:\Users\yusuf\OneDrive\Desktop\project_2\Project2\Project2\obj\Debug\Project2.Form2.resources
+C:\Users\yusuf\OneDrive\Desktop\project_2\Project2\Project2\obj\Debug\Project2.Form3.resources
+C:\Users\yusuf\OneDrive\Desktop\project_2\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\yusuf\OneDrive\Desktop\project_2\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\yusuf\OneDrive\Desktop\project_2\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Desktop\project_2\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\yusuf\OneDrive\Desktop\project_2\Project2\Project2\obj\Debug\Project2.pdb
+D:\xiazaitupian\Downloads\project_2 (2)\project_2\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+D:\xiazaitupian\Downloads\project_2 (2)\project_2\Project2\Project2\obj\Debug\Project2.exe
+D:\xiazaitupian\Downloads\project_2 (2)\project_2\Project2\Project2\obj\Debug\Project2.pdb
+E:\2022C#\project_2 (2)\project_2\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+E:\2022C#\project_2 (2)\project_2\Project2\Project2\obj\Debug\Project2.exe
+E:\2022C#\project_2 (2)\project_2\Project2\Project2\obj\Debug\Project2.pdb
+E:\2022C#\project_2 (2)\project_2\Project2\Project2\bin\Debug\Project2.exe.config
+E:\2022C#\project_2 (2)\project_2\Project2\Project2\bin\Debug\Project2.exe
+E:\2022C#\project_2 (2)\project_2\Project2\Project2\bin\Debug\Project2.pdb
+E:\2022C#\project_2 (2)\project_2\Project2\Project2\obj\Debug\Project2.Form1.resources
+E:\2022C#\project_2 (2)\project_2\Project2\Project2\obj\Debug\Project2.Form2.resources
+E:\2022C#\project_2 (2)\project_2\Project2\Project2\obj\Debug\Project2.Form3.resources
+E:\2022C#\project_2 (2)\project_2\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+E:\2022C#\project_2 (2)\project_2\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+E:\2022C#\project_2 (2)\project_2\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
