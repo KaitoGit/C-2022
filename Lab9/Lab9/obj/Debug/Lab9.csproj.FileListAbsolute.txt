@@ -1,0 +1,10 @@
+E:\2022C#\Lab9\Lab9\bin\Debug\Lab9.exe.config
+E:\2022C#\Lab9\Lab9\bin\Debug\Lab9.exe
+E:\2022C#\Lab9\Lab9\bin\Debug\Lab9.pdb
+E:\2022C#\Lab9\Lab9\obj\Debug\Lab9.csproj.AssemblyReference.cache
+E:\2022C#\Lab9\Lab9\obj\Debug\Lab9.Form1.resources
+E:\2022C#\Lab9\Lab9\obj\Debug\Lab9.Properties.Resources.resources
+E:\2022C#\Lab9\Lab9\obj\Debug\Lab9.csproj.GenerateResource.cache
+E:\2022C#\Lab9\Lab9\obj\Debug\Lab9.csproj.CoreCompileInputs.cache
+E:\2022C#\Lab9\Lab9\obj\Debug\Lab9.exe
+E:\2022C#\Lab9\Lab9\obj\Debug\Lab9.pdb

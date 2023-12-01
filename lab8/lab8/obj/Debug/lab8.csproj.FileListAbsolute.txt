@@ -1,0 +1,10 @@
+E:\2022C#\lab8\lab8\bin\Debug\lab8.exe.config
+E:\2022C#\lab8\lab8\bin\Debug\lab8.exe
+E:\2022C#\lab8\lab8\bin\Debug\lab8.pdb
+E:\2022C#\lab8\lab8\obj\Debug\lab8.csproj.AssemblyReference.cache
+E:\2022C#\lab8\lab8\obj\Debug\lab8.Form1.resources
+E:\2022C#\lab8\lab8\obj\Debug\lab8.Properties.Resources.resources
+E:\2022C#\lab8\lab8\obj\Debug\lab8.csproj.GenerateResource.cache
+E:\2022C#\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+E:\2022C#\lab8\lab8\obj\Debug\lab8.exe
+E:\2022C#\lab8\lab8\obj\Debug\lab8.pdb
